@@ -1,5 +1,0 @@
-@theme "/home/mikey/.local/share/rofi/themes/rounded-gray-dark.rasi"
-
-configuration {
-  show-icons: true;
-}
