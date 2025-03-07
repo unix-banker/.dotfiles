@@ -1,0 +1,18 @@
+[font]
+size = 14
+
+[font.bold]
+family = "Hack Nerd Font"
+style = "Bold"
+
+[font.normal]
+family = "Hack Nerd Font"
+style = "Light"
+
+[window.padding]
+x = 10
+y = 10
+
+[window]
+opacity = 0.85
+blur = true
