@@ -20,6 +20,9 @@ bspc rule -a Screenkey manage=off
 
 xsetroot -cursor_name left_ptr &
 
+xset -dpms &
+xset s off &
+
 picom --config $HOME/.config/picom/picom.conf &
 
 $HOME/.config/polybar/launch.sh &
